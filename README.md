@@ -1,4 +1,4 @@
-# Deep-Learning
+# Deep-Learning with TensorFlow
 
 This is a collection of my own notes as I am learning more about Deep Learning. 
 
